@@ -1,0 +1,11 @@
+.btn_container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.btn {
+  font-family: monospace;
+  font-weight: 500;
+  font-size: 20px;
+  margin: 0 20px;
+}
